@@ -1,5 +1,5 @@
 <?php
-namespace app\common\tools;
+//namespace app\common\tools; 这个命名空间，如果是框架里面最好还是通过命名空间来引用
 use \ZipArchive;
 // +-----------------------------------------------------
 // | 数据转换成excel文件导出类，生成多文件打包成zip导出
